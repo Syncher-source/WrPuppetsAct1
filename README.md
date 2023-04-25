@@ -5,6 +5,8 @@
 This project was developed and tested importing from Blender 2.93.8 and Cats 0.19.0
 https://github.com/absolute-quantum/cats-blender-plugin
 
+Requires Unreal Engine 5.2 and OpenXR hardware
+
 Teaser:
 
 [![Teaser](https://github.com/Syncher-source/WrPuppets/blob/main/README_images/Trailer.png)](https://www.youtube.com/watch?v=5f4U4pUGp24)
