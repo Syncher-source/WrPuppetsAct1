@@ -42,7 +42,7 @@ The example model of the project was done following this tutorial:
 
 ## Contacts
 
-Discord: \_\_VentiSette\_#7034
+Discord: \_VentiSette\_\_#7034
 
 ## Thanks
 Thanks to one of my best friend Paull78 to help debug and develop this project, supporting me and my madness
